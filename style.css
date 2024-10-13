@@ -1,0 +1,54 @@
+body{
+				font-family:sans-serif;
+				font-size:18px;
+				background-color:rgb(153, 204, 255);
+}
+#im{
+				width:400px;
+				border-radius:10px;
+
+				position:relative;
+				left:50%;transform: translate(-50%, -4%);
+}
+#gomb{
+				background-color:green;
+				color:white;
+				text-decoration:none;
+				font-weight:bold;
+				border-radius:15px;
+				padding:20px;
+				position:absolute;
+				left:50%;
+				transform:translate(-190%, -100%);
+}
+#gomb:hover{
+				background-color:rgb(0, 51, 0);
+}
+#a{
+				text-align:center;
+				font-size:60px;
+}
+#mbtv{
+				text-decoration:none;
+				font-weight:bold;
+				color:blue;
+				padding:2px;
+}
+#mbtv:hover{
+				color:white;
+				background-color:blue;
+				border-radius:4px;
+}
+#g{
+				padding:0px;
+				text-align:center;
+}
+ul{
+				list-style-type:none;
+}
+li{
+				text-align:center;
+#file{
+				color:rgb(0, 102, 204);
+				font-weight:bold;
+}
